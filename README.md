@@ -1,3 +1,5 @@
+**NOTE**: This is a temporary fork to allow building with unix >=2.8.
+
 An interface between Haskell web frameworks and web servers.
 
 [![Build status](https://github.com/yesodweb/wai/actions/workflows/tests.yml/badge.svg)](https://github.com/yesodweb/wai/actions/workflows/tests.yml)
